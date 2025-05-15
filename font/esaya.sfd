@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1732266389
-ModificationTime: 1746689225
+ModificationTime: 1747318661
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -287,20 +287,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-896 -384 m 5
- 128 -384 l 5
- 128 -256 l 5
- 684 -256 l 5
- 380 -64 l 5
- 380 64 l 5
- 684 256 l 5
- 128 256 l 5
- 128 384 l 5
+128 384 m 5
  896 384 l 5
  896 256 l 5
- 512 0 l 5
+ 340 256 l 5
+ 644 64 l 5
+ 644 -64 l 5
+ 340 -256 l 5
  896 -256 l 5
  896 -384 l 5
+ 128 -384 l 5
+ 128 -256 l 5
+ 512 0 l 5
+ 128 256 l 5
+ 128 384 l 5
 EndSplineSet
 EndChar
 
@@ -588,20 +588,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-128 384 m 5
- 896 384 l 5
- 896 256 l 5
- 340 256 l 5
- 644 64 l 5
- 644 -64 l 5
- 340 -256 l 5
- 896 -256 l 5
- 896 -384 l 5
+896 -384 m 5
  128 -384 l 5
  128 -256 l 5
- 512 0 l 5
+ 684 -256 l 5
+ 380 -64 l 5
+ 380 64 l 5
+ 684 256 l 5
  128 256 l 5
  128 384 l 5
+ 896 384 l 5
+ 896 256 l 5
+ 512 0 l 5
+ 896 -256 l 5
+ 896 -384 l 5
 EndSplineSet
 EndChar
 
@@ -1250,20 +1250,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-896 -384 m 5
- 128 -384 l 5
- 128 -256 l 5
- 684 -256 l 5
- 380 -64 l 5
- 380 64 l 5
- 684 256 l 5
- 128 256 l 5
- 128 384 l 5
+128 384 m 5
  896 384 l 5
  896 256 l 5
- 512 0 l 5
+ 340 256 l 5
+ 644 64 l 5
+ 644 -64 l 5
+ 340 -256 l 5
  896 -256 l 5
  896 -384 l 5
+ 128 -384 l 5
+ 128 -256 l 5
+ 512 0 l 5
+ 128 256 l 5
+ 128 384 l 5
 EndSplineSet
 EndChar
 
@@ -1500,20 +1500,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-128 384 m 5
- 896 384 l 5
- 896 256 l 5
- 340 256 l 5
- 644 64 l 5
- 644 -64 l 5
- 340 -256 l 5
- 896 -256 l 5
- 896 -384 l 5
+896 -384 m 5
  128 -384 l 5
  128 -256 l 5
- 512 0 l 5
+ 684 -256 l 5
+ 380 -64 l 5
+ 380 64 l 5
+ 684 256 l 5
  128 256 l 5
  128 384 l 5
+ 896 384 l 5
+ 896 256 l 5
+ 512 0 l 5
+ 896 -256 l 5
+ 896 -384 l 5
 EndSplineSet
 EndChar
 
